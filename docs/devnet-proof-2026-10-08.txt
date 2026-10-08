@@ -1,0 +1,9 @@
+$ node scripts/devnet-proof.ts            (2026-10-08, public devnet RPC)
+devnet RPC: https://api.devnet.solana.com
+pump.fun Global on devnet: fee 95 bps, creator fee 5 bps, virtual SOL 1
+airdrop refused: airdrop to DgEzpxeEAp7x3KRB4M96Z75QFnC5gVMT4v7XMkvxN5Lj failed: Internal error
+simulating as devnet creator AnE8G91SMxtWpjoGWwS3kBiYT2TKFGZzWWKSqVP68onZ (balance 0.387265138 SOL), its coin 9R3ZgJRdxD86ZJA5yVqJHjqjAND1LQQs39awHoFkFNvr
+OK   simulate create_v2 (FABLE launch, no initial buy) — 870 bytes, 103038 CU
+OK   simulate create_v2 + ATA + initial buy 0.01 SOL — 1214 bytes, 188323 CU
+OK   simulate sweep + create_fee_sharing_config + update_fee_shares_v2 [30/40/30] — 1045 bytes, 187078 CU
+ALL SIMULATIONS OK
